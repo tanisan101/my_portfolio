@@ -1,0 +1,23 @@
+{
+  "name": "tanishka-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Tanishka - Full Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server . -o -p 3000",
+    "start": "http-server . -o -p 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Tanishka",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
